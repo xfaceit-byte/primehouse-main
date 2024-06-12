@@ -29,7 +29,7 @@
 			<input type="tel" name="phone" />
 		</div>
 		<div>
-			<label for="company">*Company name</label>
+			<label for="company">*Company name (optional)</label>
 			<input type="text" name="company" />
 		</div>
 		<p class="max-w-[560px] text-sm">

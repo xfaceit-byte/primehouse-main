@@ -15,6 +15,10 @@ export const links = [
         name: 'About us',
         path: '/about'
     },
+    {
+        name: 'Login',
+        path: '/login'
+    }
 ]
 
 export const clients = [
